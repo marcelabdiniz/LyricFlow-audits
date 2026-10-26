@@ -6,13 +6,15 @@ These reports are maintained by the project owner with AI-assisted development a
 
 ## Reports
 
+- [Current staged customer package — build191](reports/2026-10-26-build191.md)
+
 - [Prepared customer package — build 171](reports/2026-10-26-build171.md)
 - [Earlier build 170 verification — October 26, 2026](reports/2026-10-26-build170.md)
 - [Security and data-flow overview](SECURITY-OVERVIEW.md)
 - [Signing, installation and checksums](DISTRIBUTION.md)
 - [Report corrections](CHANGELOG.md)
 
-The latest report identifies staged customer package **0.1.5 build 171**, based on accepted build 170. It has not been publicly released. No further tests were run; waived or unverified checks are labelled accordingly. Public website download and purchase buttons remain disabled.
+The latest report identifies staged customer package **0.1.5 build191**, preserving the accepted lyric timing with later Settings and checkout recovery changes. It has not been publicly released. No further tests were run; waived or unverified checks are labelled accordingly. Public website download and purchase buttons remain disabled.
 
 Product information, privacy and support: [lyricflow.studio](https://lyricflow.studio/), [privacy](https://lyricflow.studio/privacy/), [support](https://lyricflow.studio/refunds/).
 

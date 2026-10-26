@@ -12,3 +12,7 @@ Future corrections should retain dates and explain material changes. Final publi
 ## October 26, 2026 — build 171 preparation
 
 Added a separate staged-artifact report and checksum for build 171, preserving the historical170 verification report. Recorded the owner's further-testing waiver and incomplete production purchase/restoration acceptance. No code, binary, private evidence or original project history is included.
+
+## October26,2026 — build191 preparation
+
+Added a separate staged191 artifact/checksum report. Confirmed checkout rendering; payment, restoration and refund acceptance remain incomplete. Preserved earlier reports and disclosed waived/unverified checks. No app source or private evidence included.
