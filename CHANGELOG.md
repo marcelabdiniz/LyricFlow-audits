@@ -16,3 +16,7 @@ Added a separate staged-artifact report and checksum for build 171, preserving t
 ## October26,2026 — build191 preparation
 
 Added a separate staged191 artifact/checksum report. Confirmed checkout rendering; payment, restoration and refund acceptance remain incomplete. Preserved earlier reports and disclosed waived/unverified checks. No app source or private evidence included.
+
+## October26,2026 — owner purchase follow-up
+
+Owner completed a live purchase. App verified/unlocked Pro and retained verified/unlocked status after quit/reopen of191. Recovery-email and refund acceptance remain unverified. Updated the current overview; historical reports retain their original scope.
