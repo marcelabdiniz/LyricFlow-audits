@@ -1,3 +1,5 @@
+> **Correction — October27,2026:** The owner confirms no authorization for underlying song lyrics is held. Earlier statements suggesting rights were secured are superseded. Provider API permission does not establish song-text rights. Public launch remains on hold pending licensing or an explicitly selected product-scope change.
+
 # Security and data-flow overview
 
 This is a source-informed overview of the prepared customer app, dated October 26, 2026. It is not a complete runtime traffic analysis or independent security audit.

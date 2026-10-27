@@ -1,3 +1,5 @@
+> **Correction — October27,2026:** The owner confirms no authorization for underlying song lyrics is held. Earlier statements suggesting rights were secured are superseded. Provider API permission does not establish song-text rights. Public launch remains on hold pending licensing or an explicitly selected product-scope change.
+
 # LyricFlow transparency reports
 
 LyricFlow is proprietary macOS software. This repository publishes selected internal verification reports and practical limitations. It contains no application source, backend source, installers or private operational evidence.

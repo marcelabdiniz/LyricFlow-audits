@@ -24,3 +24,7 @@ Owner completed a live purchase. App verified/unlocked Pro and retained verified
 ## October27,2026 — purchase recovery
 
 Fixed a server email runtime incompatibility. Recorded provider-reported delivery, owner email-link opening and successful explicit app restoration on the initiating Mac. No new app archive, broad tests or stability runs. Refund/second-Mac recovery remain unverified. No private codes, links or infrastructure details included.
+
+## October27,2026 — lyrics authorization correction
+
+Owner confirms no underlying lyrics authorization is held. Superseded earlier secured-rights assumptions explicitly, retaining historical reports. Provider permission is separate. Build191 unchanged; public release held pending licensing or a product-scope decision. No independent legal clearance claimed.
