@@ -20,3 +20,7 @@ Added a separate staged191 artifact/checksum report. Confirmed checkout renderin
 ## October26,2026 — owner purchase follow-up
 
 Owner completed a live purchase. App verified/unlocked Pro and retained verified/unlocked status after quit/reopen of191. Recovery-email and refund acceptance remain unverified. Updated the current overview; historical reports retain their original scope.
+
+## October27,2026 — purchase recovery
+
+Fixed a server email runtime incompatibility. Recorded provider-reported delivery, owner email-link opening and successful explicit app restoration on the initiating Mac. No new app archive, broad tests or stability runs. Refund/second-Mac recovery remain unverified. No private codes, links or infrastructure details included.
