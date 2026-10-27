@@ -28,3 +28,7 @@ Fixed a server email runtime incompatibility. Recorded provider-reported deliver
 ## October27,2026 — lyrics authorization correction
 
 Owner confirms no underlying lyrics authorization is held. Superseded earlier secured-rights assumptions explicitly, retaining historical reports. Provider permission is separate. Build191 unchanged; public release held pending licensing or a product-scope decision. No independent legal clearance claimed.
+
+## October27,2026 — preparation checkpoint
+
+Recorded selected zero-fee licensing path and completed independent documentation/site preparation. Kept release held; preserved191 archive and historical evidence. Clarified broad-test waiver versus narrow purchase/recovery evidence. No app code, binaries, private correspondence or confidential terms published.

@@ -1,4 +1,4 @@
-> **Correction — October27,2026:** The owner confirms no authorization for underlying song lyrics is held. Earlier statements suggesting rights were secured are superseded. Provider API permission does not establish song-text rights. Public launch remains on hold pending licensing or an explicitly selected product-scope change.
+> **Correction — October27,2026:** The owner confirms no authorization for underlying song lyrics is held. Earlier statements suggesting rights were secured are superseded. Provider API permission does not establish song-text rights. Public launch remains on hold pending licensing; the owner selected keeping lyrics and seeking zero-fee terms.
 
 # LyricFlow transparency reports
 
@@ -16,7 +16,7 @@ These reports are maintained by the project owner with AI-assisted development a
 - [Signing, installation and checksums](DISTRIBUTION.md)
 - [Report corrections](CHANGELOG.md)
 
-The latest report identifies staged customer package **0.1.5 build191**, preserving the accepted lyric timing with later Settings and checkout recovery changes. It has not been publicly released. No further tests were run; waived or unverified checks are labelled accordingly. Public website download and purchase buttons remain disabled.
+The latest report identifies staged customer package **0.1.5 build191**, preserving the accepted lyric timing with later Settings and checkout recovery changes. It has not been publicly released. No new broad tests or stability runs were performed; narrow purchase/recovery observations are described separately. Waived or unverified checks are labelled accordingly. Public website download and purchase buttons remain disabled.
 
 Product information, privacy and support: [lyricflow.studio](https://lyricflow.studio/), [privacy](https://lyricflow.studio/privacy/), [support](https://lyricflow.studio/refunds/).
 
