@@ -1,4 +1,4 @@
-> **Correction — October27,2026:** The owner confirms no authorization for underlying song lyrics is held. Earlier statements suggesting rights were secured are superseded. Provider API permission does not establish song-text rights. Public launch remains on hold pending licensing; the owner selected keeping lyrics and seeking zero-fee terms.
+> **Correction — October27,2026:** The owner confirms no authorization for underlying song lyrics is held. Earlier statements suggesting rights were secured are superseded. Provider API permission does not establish song-text rights. Owner later approved publication without a grant on October29; no underlying lyrics rights are established.
 
 # LyricFlow transparency reports
 
@@ -8,7 +8,8 @@ These reports are maintained by the project owner with AI-assisted development a
 
 ## Reports
 
-- [Current staged customer package — build191](reports/2026-10-26-build191.md)
+- [Current public release — build191, October29](reports/2026-10-29-public191.md)
+- [Historical build191 preparation](reports/2026-10-26-build191.md)
 
 - [Prepared customer package — build 171](reports/2026-10-26-build171.md)
 - [Earlier build 170 verification — October 26, 2026](reports/2026-10-26-build170.md)
@@ -16,7 +17,7 @@ These reports are maintained by the project owner with AI-assisted development a
 - [Signing, installation and checksums](DISTRIBUTION.md)
 - [Report corrections](CHANGELOG.md)
 
-The latest report identifies staged customer package **0.1.5 build191**, preserving the accepted lyric timing with later Settings and checkout recovery changes. It has not been publicly released. No new broad tests or stability runs were performed; narrow purchase/recovery observations are described separately. Waived or unverified checks are labelled accordingly. Public website download and purchase buttons remain disabled.
+Current public package: **0.1.5 build191**, released October29,2026. See the current report for exact checksum, missing lyrics authorization, narrow publication evidence and waived/unverified checks. Public downloads and Pro entry are enabled. Historical preparation reports retain their original scope.
 
 Product information, privacy and support: [lyricflow.studio](https://lyricflow.studio/), [privacy](https://lyricflow.studio/privacy/), [support](https://lyricflow.studio/refunds/).
 

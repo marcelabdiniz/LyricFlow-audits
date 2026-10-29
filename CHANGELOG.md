@@ -32,3 +32,7 @@ Owner confirms no underlying lyrics authorization is held. Superseded earlier se
 ## October27,2026 — preparation checkpoint
 
 Recorded selected zero-fee licensing path and completed independent documentation/site preparation. Kept release held; preserved191 archive and historical evidence. Clarified broad-test waiver versus narrow purchase/recovery evidence. No app code, binaries, private correspondence or confidential terms published.
+
+## October29,2026 — public191
+
+Owner approved release without underlying lyrics authorization. Published exact191 ZIP and matching website, Free download and in-app Pro entry. Public download checksum matched. No new broad tests or financial acceptance. Earlier hold statements retained as history; no rights clearance claimed.
