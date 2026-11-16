@@ -1,3 +1,5 @@
+> **Current release update — November16,2026:** build211 is public and all features are free. It does not start purchase verification, restoration or refund-status polling. Historical purchase records are retained; older-version services and support remain separate. [Current report](reports/2026-11-16-public211.md). The October26/27 overview below remains historical where it differs; lyrics rights are not cleared.
+
 > **Correction — October27,2026:** The owner confirms no authorization for underlying song lyrics is held. Earlier statements suggesting rights were secured are superseded. Provider API permission does not establish song-text rights. Public launch remains on hold pending licensing or an explicitly selected product-scope change.
 
 # Security and data-flow overview

@@ -8,7 +8,8 @@ These reports are maintained by the project owner with AI-assisted development a
 
 ## Reports
 
-- [Current public release — build191, October29](reports/2026-10-29-public191.md)
+- [Current public release — build211, November16](reports/2026-11-16-public211.md)
+- [Historical public release — build191, October29](reports/2026-10-29-public191.md)
 - [Historical build191 preparation](reports/2026-10-26-build191.md)
 
 - [Prepared customer package — build 171](reports/2026-10-26-build171.md)
@@ -17,7 +18,7 @@ These reports are maintained by the project owner with AI-assisted development a
 - [Signing, installation and checksums](DISTRIBUTION.md)
 - [Report corrections](CHANGELOG.md)
 
-Current public package: **0.1.5 build191**, released October29,2026. See the current report for exact checksum, missing lyrics authorization, narrow publication evidence and waived/unverified checks. Public downloads and Pro entry are enabled. Historical preparation reports retain their original scope.
+Current public package: **0.1.5 build211**, released November16,2026. All app features are free; optional contributions unlock nothing. See the current report for the exact checksum, executed checks and remaining verification/content-permission limits. Historical reports retain their original scope.
 
 Product information, privacy and support: [lyricflow.studio](https://lyricflow.studio/), [privacy](https://lyricflow.studio/privacy/), [support](https://lyricflow.studio/refunds/).
 

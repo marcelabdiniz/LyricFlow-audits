@@ -36,3 +36,7 @@ Recorded selected zero-fee licensing path and completed independent documentatio
 ## October29,2026 — public191
 
 Owner approved release without underlying lyrics authorization. Published exact191 ZIP and matching website, Free download and in-app Pro entry. Public download checksum matched. No new broad tests or financial acceptance. Earlier hold statements retained as history; no rights clearance claimed.
+
+## November16,2026 — all-feature Free211
+
+Added a separate public211report and checksum. All features are free; purchasing/restoration no longer required. Updated current overview, preserving earlier reports and missing-rights disclosure. Recorded focused checks and explicit unverified runtime/install limits. Local old-build cleanup preserves source and historical records. No app source, installers, private evidence or original Git history published.
